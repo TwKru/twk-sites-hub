@@ -1,0 +1,80 @@
+[
+  {
+    "id": "forma",
+    "name": "FORMA",
+    "category": "creative",
+    "label": "Креативный концепт",
+    "desc": "Выразительная типографика, хромированная графика и интерактивная демопрограмма.",
+    "tags": [
+      "Анимация",
+      "Фильтры",
+      "Деморегистрация"
+    ],
+    "url": "https://twkru.github.io/forma-design-demo/"
+  },
+  {
+    "id": "mayak",
+    "name": "Маяк",
+    "category": "business",
+    "label": "Шиномонтаж",
+    "desc": "Услуги, прайс и удобная заявка с данными автомобиля в WhatsApp.",
+    "tags": [
+      "Прайс",
+      "Заявка",
+      "Проезд"
+    ],
+    "url": "https://twkru.github.io/workshop-demo-mayak/"
+  },
+  {
+    "id": "brush",
+    "name": "BLACK BRUSH",
+    "category": "business",
+    "label": "Парикмахерская",
+    "desc": "Тёмная палитра, крупные фотографии и подача услуг салона.",
+    "tags": [
+      "Услуги",
+      "Галерея",
+      "Контакты"
+    ],
+    "url": "https://twkru.github.io/showcase.github.io/"
+  },
+  {
+    "id": "repair",
+    "name": "Техника дома",
+    "category": "business",
+    "label": "Ремонт техники",
+    "desc": "Клиент выбирает технику, описывает поломку и собирает сообщение мастеру.",
+    "tags": [
+      "Выбор услуги",
+      "WhatsApp",
+      "Вопросы"
+    ],
+    "url": "https://twkru.github.io/local-service-demos/repair/"
+  },
+  {
+    "id": "cleaning",
+    "name": "Свежо",
+    "category": "business",
+    "label": "Химчистка мебели",
+    "desc": "Спокойный визуальный стиль и заявка с типом мебели и деталями загрязнения.",
+    "tags": [
+      "Иллюстрации",
+      "Заявка",
+      "WhatsApp"
+    ],
+    "url": "https://twkru.github.io/local-service-demos/cleaning/"
+  },
+  {
+    "id": "twk",
+    "name": "TwK",
+    "category": "personal",
+    "label": "Визитка разработчика",
+    "desc": "Личный сайт: знакомство с разработчиком, направления работы и контакты.",
+    "tags": [
+      "Визитка",
+      "Анимация",
+      "О разработчике"
+    ],
+    "url": "https://twkru.github.io/brochure-website/"
+  }
+]
